@@ -1573,7 +1573,7 @@ class App:
         """Show documentation"""
         # Try to open documentation in web browser
         try:
-            webbrowser.open("https://github.com/vinayahari/image-converter/docs")
+            webbrowser.open("https://github.com/vinayhr5/enhanced-image-converter/blob/main/README.md")
         except:
             # If web browser can't be opened, show documentation in a dialog
             doc = tk.Toplevel(self.root)
