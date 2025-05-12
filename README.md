@@ -97,11 +97,7 @@ The application saves your settings in `~/.image_converter_settings.json`, inclu
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgements
-
 - Created by Vinay Ahari
 - Uses Pillow library for image processing
